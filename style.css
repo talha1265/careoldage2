@@ -454,6 +454,10 @@ footer {
       .btn-nav {
       display: none;
     }
+         .dropdown-menu li{
+      
+     width: 120px;
+    }
     .overlay p{
       font-size: 1.6rem;
       margin-bottom: 13px; 
